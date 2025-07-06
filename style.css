@@ -81,7 +81,8 @@ body {
 
 .main-content {
     padding: 2rem;
-    width:100%;
+    width:90%;
+   
 }
 
 .header-bar {
@@ -432,5 +433,6 @@ div.user-info > span {
     bottom: 0;
     position: fixed;
     width: 100%;
-    
+
+
 }
